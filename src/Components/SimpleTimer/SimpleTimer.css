@@ -1,0 +1,27 @@
+body {
+  background: #000;
+}
+.simple-timer {
+  text-align: center;
+  color: #00ff00;
+  margin-top: 15%;
+}
+.simple-timer .btn {
+  color: #00ff00;
+  border: 1px solid;
+  text-transform: capitalize;
+}
+.simple-timer .btn:hover {
+  border: 1px solid #00ff00;
+}
+.simple-timer .count {
+  margin: 0 50px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.simple-timer .btn-wrapper .btn {
+  margin: 10px;
+}
+.simple-timer .btn-wrapper {
+  margin-top: 20px;
+}
